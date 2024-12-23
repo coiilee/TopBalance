@@ -1,4 +1,5 @@
 package com.topBalance.wishTree.dto;
 
-public class CardType {
+public enum CardType {
+    SPADE, CLOVER, HEART, DIAMOND;
 }
